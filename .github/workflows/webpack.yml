@@ -1,6 +1,4 @@
 Pretty~V Webpack.yml
-block access to "ALL" apps in web access by using HTML by using the following code snippet:
-
 ```html
 <script>
   var blockedDomains = ["example.com", "test.com"];
